@@ -1,2 +1,2 @@
 # ride_sharing
-This repository contains the details of the project concerning the development of pricing and matching policies for optimizing the profit of a ride-sharing firm.
+This repository contains the details of the project concerning the development of parameters that are able to quantify the monocentric and polycentric urban forms found in modern cities by leveraging datasets that capture the distance-driven and attractivity-driven regimes
